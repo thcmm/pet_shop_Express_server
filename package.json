@@ -1,0 +1,25 @@
+{
+  "name": "pet_shop_express_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thcmm/pet_shop_Express_server.git"
+  },
+  "keywords": [
+    "Boo"
+  ],
+  "author": "TPS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thcmm/pet_shop_Express_server/issues"
+  },
+  "homepage": "https://github.com/thcmm/pet_shop_Express_server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
